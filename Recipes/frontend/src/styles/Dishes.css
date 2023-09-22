@@ -1,0 +1,16 @@
+body {
+    background-color: #ffdf99;
+}
+
+.table {
+    width: 75%;
+    margin: auto;
+    content: center;
+    text-align: center;
+    border-color: #007427;
+}
+
+a {
+    text-decoration: none;
+    color: #007427;
+}
